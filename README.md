@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Parvez453
-- 👀 I’m interested in programming language
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on who want to learn about programming
+- 👋 Hi, I’m PaRvEz MoShErraf
+- 👀 I’m interested in to learn about logo design
+- 🌱 I’m currently learning about C++
+- 💞️ I’m looking to collaborate on who want to learn about Logo Design
 - 📫 How to reach me parvezmosherraf77@gmail.com
 
 <!---
