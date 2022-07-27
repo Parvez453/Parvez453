@@ -1,5 +1,5 @@
 - 👋 Hi, I’m PaRvEz MoShErraf
-- 👀 I’m interested in to learn about logo design
+- 👀 I’m interested in to learn about LOGO Design
 - 🌱 I’m currently learning about C++
 - 💞️ I’m looking to collaborate on who want to learn about Logo Design
 - 📫 How to reach me parvezmosherraf77@gmail.com
