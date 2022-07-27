@@ -1,7 +1,7 @@
-- 👋 Hi, I’m PaRvEz MoShErraf
+- 👋 Hi, I’m PaRvEz MoShErRaF
 - 👀 I’m interested in to learn about LOGO Design
-- 🌱 I’m currently learning about C++
-- 💞️ I’m looking to collaborate on who want to learn about Logo Design
+- 🌱 I’m currently learning about C++ language
+- 💞️ I’m looking to collaborate on LOGO Design and C++ language
 - 📫 How to reach me parvezmosherraf77@gmail.com
 
 <!---
